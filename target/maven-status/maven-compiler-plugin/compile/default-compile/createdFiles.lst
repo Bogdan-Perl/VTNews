@@ -1,0 +1,5 @@
+org/example/myproject/Article.class
+org/example/myproject/HelloServlet.class
+org/example/myproject/Runner.class
+org/example/myproject/AISummarizer.class
+org/example/myproject/ArticleScraper.class
